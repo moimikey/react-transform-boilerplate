@@ -47,7 +47,7 @@
     "express": "^4.13.3",
     "rimraf": "^2.4.3",
     "webpack": "^1.12.9",
-    "webpack-dev-middleware": "^1.4.0",
+    "webpack-dev-middleware": "^4.1.0",
     "webpack-hot-middleware": "^2.9.1"
   },
   "dependencies": {
