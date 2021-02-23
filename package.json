@@ -42,7 +42,7 @@
     "cross-env": "^1.0.7",
     "eslint": "^1.10.3",
     "eslint-plugin-babel": "^3.0.0",
-    "eslint-plugin-react": "^3.11.3",
+    "eslint-plugin-react": "^7.22.0",
     "eventsource-polyfill": "^0.9.6",
     "express": "^4.13.3",
     "rimraf": "^2.4.3",
